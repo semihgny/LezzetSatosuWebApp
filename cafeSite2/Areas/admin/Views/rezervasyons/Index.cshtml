@@ -1,0 +1,71 @@
+﻿@model IEnumerable<cafeSite2.Models.rezervasyon>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+<table class="table table-bordered table-striped" id="myTable">
+    <thead>
+        <tr>
+            <th>
+                Adı
+            </th>
+            <th>
+                Email
+            </th>
+            <th>
+                Telefon  No
+            </th>
+            <th>
+                Sayı
+            </th>
+            <th>
+               Saat
+            </th>
+            <th>
+               Tarih
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.eMail)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.telefonNo)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.sayi)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.saat)
+            </td>
+            <td>
+                @item.Tarih.ToShortDateString()
+            </td>
+            <td>
+              
+                <a asp-action="Delete" asp-route-id="@item.id" class="btn btn-danger bi bi-trash">Sil</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
+
+@section scripts {
+
+    <script type="text/javascript">
+               $(document).ready( function () {
+            $('#myTable').DataTable();
+        } );
+    </script>
+
+}

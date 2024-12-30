@@ -1,0 +1,47 @@
+﻿@model IEnumerable<cafeSite2.Models.iletisim>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+<p>
+    <a asp-action="Create" class="btn btn-primary">Yeni Kayıt</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+               Email
+            </th>
+            <th>
+                Telefon
+            </th>
+            <th>
+               Adres
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.eMail)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.telefon)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.adres)
+            </td>
+            <br />
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.id" class="btn btn-success">Düzenle</a> 
+                <a asp-action="Delete" asp-route-id="@item.id" class="btn btn-danger">Sil</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

@@ -1,0 +1,433 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\cafeSite2\\cafeSite2\\obj\\Release\\net9.0\\scopedcss\\projectbundle\\cafeSite2.bundle.scp.css",
+      "PackagePath": "staticwebassets\\cafeSite2.tq4gvwwi67.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\cafeSite2\\cafeSite2\\wwwroot\\Site\\fonts\\ionicons-2.0.1\\builder\\build_data.json",
+      "PackagePath": "staticwebassets\\Site\\fonts\\ionicons-2.0.1\\builder\\build_data.json"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\cafeSite2\\cafeSite2\\wwwroot\\Site\\fonts\\ionicons-2.0.1\\builder\\manifest.json",
+      "PackagePath": "staticwebassets\\Site\\fonts\\ionicons-2.0.1\\builder\\manifest.json"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\cafeSite2\\cafeSite2\\wwwroot\\Site\\fonts\\themify\\Themify IconFonts 5-23-2014.json",
+      "PackagePath": "staticwebassets\\Site\\fonts\\themify\\Themify IconFonts 5-23-2014.json"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\cafeSite2\\cafeSite2\\wwwroot\\Site\\images\\Logo.png",
+      "PackagePath": "staticwebassets\\Site\\images\\Logo.png"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\cafeSite2\\cafeSite2\\wwwroot\\Site\\images\\logo2.png",
+      "PackagePath": "staticwebassets\\Site\\images\\logo2.png"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\cafeSite2\\cafeSite2\\wwwroot\\Site\\images\\no-image.jpg",
+      "PackagePath": "staticwebassets\\Site\\images\\no-image.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\cafeSite2\\cafeSite2\\wwwroot\\Site\\includes\\config.json",
+      "PackagePath": "staticwebassets\\Site\\includes\\config.json"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\cafeSite2\\cafeSite2\\wwwroot\\Site\\menu\\037306a3-ea0e-4050-ba3c-19f75acb0382.jpg",
+      "PackagePath": "staticwebassets\\Site\\menu\\037306a3-ea0e-4050-ba3c-19f75acb0382.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\cafeSite2\\cafeSite2\\wwwroot\\Site\\menu\\1dab7a17-357c-441f-abd2-7caf7e93d854.webp",
+      "PackagePath": "staticwebassets\\Site\\menu\\1dab7a17-357c-441f-abd2-7caf7e93d854.webp"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\cafeSite2\\cafeSite2\\wwwroot\\Site\\menu\\1dc2ef01-9291-4708-90d1-b163add8e146.jpg",
+      "PackagePath": "staticwebassets\\Site\\menu\\1dc2ef01-9291-4708-90d1-b163add8e146.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\cafeSite2\\cafeSite2\\wwwroot\\Site\\menu\\22115e7d-e87f-47f5-b146-f1f2334555fa.jpg",
+      "PackagePath": "staticwebassets\\Site\\menu\\22115e7d-e87f-47f5-b146-f1f2334555fa.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\cafeSite2\\cafeSite2\\wwwroot\\Site\\menu\\334651fa-9b93-44c7-a4e3-b9651ad751c5.jpg",
+      "PackagePath": "staticwebassets\\Site\\menu\\334651fa-9b93-44c7-a4e3-b9651ad751c5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\cafeSite2\\cafeSite2\\wwwroot\\Site\\menu\\365e192d-03d5-4200-89f8-490d21fa753f.jpg",
+      "PackagePath": "staticwebassets\\Site\\menu\\365e192d-03d5-4200-89f8-490d21fa753f.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\cafeSite2\\cafeSite2\\wwwroot\\Site\\menu\\3ce546a8-5f8e-4bce-a777-3e4d1fe73fb9.webp",
+      "PackagePath": "staticwebassets\\Site\\menu\\3ce546a8-5f8e-4bce-a777-3e4d1fe73fb9.webp"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\cafeSite2\\cafeSite2\\wwwroot\\Site\\menu\\607b8b60-30cc-4699-a408-9416b4ec7036.webp",
+      "PackagePath": "staticwebassets\\Site\\menu\\607b8b60-30cc-4699-a408-9416b4ec7036.webp"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\cafeSite2\\cafeSite2\\wwwroot\\Site\\menu\\66bad696-316e-438f-895d-d70f2564e401.jpg",
+      "PackagePath": "staticwebassets\\Site\\menu\\66bad696-316e-438f-895d-d70f2564e401.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\cafeSite2\\cafeSite2\\wwwroot\\Site\\menu\\6b5be8c4-4ee7-4c12-af03-9950e4968140.jpg",
+      "PackagePath": "staticwebassets\\Site\\menu\\6b5be8c4-4ee7-4c12-af03-9950e4968140.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\cafeSite2\\cafeSite2\\wwwroot\\Site\\menu\\7e68e9bf-bb4a-434d-9be7-015811a65286.webp",
+      "PackagePath": "staticwebassets\\Site\\menu\\7e68e9bf-bb4a-434d-9be7-015811a65286.webp"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\cafeSite2\\cafeSite2\\wwwroot\\Site\\menu\\86122a2e-f2c8-438a-84a3-bb62ccc61684.jpg",
+      "PackagePath": "staticwebassets\\Site\\menu\\86122a2e-f2c8-438a-84a3-bb62ccc61684.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\cafeSite2\\cafeSite2\\wwwroot\\Site\\menu\\907a3127-d286-4e00-bad0-42676a98527a.jpg",
+      "PackagePath": "staticwebassets\\Site\\menu\\907a3127-d286-4e00-bad0-42676a98527a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\cafeSite2\\cafeSite2\\wwwroot\\Site\\menu\\9ccaf2b8-a4ff-4684-a1c1-90dd07f7ce54.jpg",
+      "PackagePath": "staticwebassets\\Site\\menu\\9ccaf2b8-a4ff-4684-a1c1-90dd07f7ce54.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\cafeSite2\\cafeSite2\\wwwroot\\Site\\menu\\ae6c499d-49d5-4aac-a182-b81a305c2d70.webp",
+      "PackagePath": "staticwebassets\\Site\\menu\\ae6c499d-49d5-4aac-a182-b81a305c2d70.webp"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\cafeSite2\\cafeSite2\\wwwroot\\Site\\menu\\ae90a7d7-3a6e-4222-8b20-d2e4707b797c.jpg",
+      "PackagePath": "staticwebassets\\Site\\menu\\ae90a7d7-3a6e-4222-8b20-d2e4707b797c.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\cafeSite2\\cafeSite2\\wwwroot\\Site\\menu\\aebeedca-4d42-43ad-9f17-727c5e5ebdae.jpg",
+      "PackagePath": "staticwebassets\\Site\\menu\\aebeedca-4d42-43ad-9f17-727c5e5ebdae.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\cafeSite2\\cafeSite2\\wwwroot\\Site\\menu\\b4bcecd4-9c23-47d4-87a2-dcb402e272dd.jpg",
+      "PackagePath": "staticwebassets\\Site\\menu\\b4bcecd4-9c23-47d4-87a2-dcb402e272dd.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\cafeSite2\\cafeSite2\\wwwroot\\Site\\menu\\c03c1f03-9971-4929-bf43-aaaa15ba69b6.jpg",
+      "PackagePath": "staticwebassets\\Site\\menu\\c03c1f03-9971-4929-bf43-aaaa15ba69b6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\cafeSite2\\cafeSite2\\wwwroot\\Site\\menu\\c60fb23c-93e9-44c0-95ff-ecfb04d7603d.jpg",
+      "PackagePath": "staticwebassets\\Site\\menu\\c60fb23c-93e9-44c0-95ff-ecfb04d7603d.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\cafeSite2\\cafeSite2\\wwwroot\\Site\\menu\\dae8f86e-2e2c-461b-b2d2-2190f41396b7.jpg",
+      "PackagePath": "staticwebassets\\Site\\menu\\dae8f86e-2e2c-461b-b2d2-2190f41396b7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\cafeSite2\\cafeSite2\\wwwroot\\Site\\menu\\dc0766c5-9ee5-47d7-9af4-c45f91464f9f.jpg",
+      "PackagePath": "staticwebassets\\Site\\menu\\dc0766c5-9ee5-47d7-9af4-c45f91464f9f.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\cafeSite2\\cafeSite2\\wwwroot\\Site\\menu\\e633ff92-aab9-48b0-aa4b-b4567299d84c.webp",
+      "PackagePath": "staticwebassets\\Site\\menu\\e633ff92-aab9-48b0-aa4b-b4567299d84c.webp"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\cafeSite2\\cafeSite2\\wwwroot\\Site\\menu\\ea80c078-5a17-4964-8ba7-4bf3d57c09ba.jpg",
+      "PackagePath": "staticwebassets\\Site\\menu\\ea80c078-5a17-4964-8ba7-4bf3d57c09ba.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\cafeSite2\\cafeSite2\\wwwroot\\Site\\menu\\efa41620-1f4f-4f84-bd4f-4a38f2defb0b.webp",
+      "PackagePath": "staticwebassets\\Site\\menu\\efa41620-1f4f-4f84-bd4f-4a38f2defb0b.webp"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\cafeSite2\\cafeSite2\\wwwroot\\Site\\menu\\f10b6255-d9ff-4112-bef6-a40aeb6875a5.jpg",
+      "PackagePath": "staticwebassets\\Site\\menu\\f10b6255-d9ff-4112-bef6-a40aeb6875a5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\cafeSite2\\cafeSite2\\wwwroot\\Site\\menu\\f1ab1673-c6de-45d5-b2ca-c6c7eed17744.jpg",
+      "PackagePath": "staticwebassets\\Site\\menu\\f1ab1673-c6de-45d5-b2ca-c6c7eed17744.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\cafeSite2\\cafeSite2\\wwwroot\\Site\\menu\\f2a76872-f455-443a-8f89-25e69f1cc0f8.webp",
+      "PackagePath": "staticwebassets\\Site\\menu\\f2a76872-f455-443a-8f89-25e69f1cc0f8.webp"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\cafeSite2\\cafeSite2\\wwwroot\\Site\\menu\\fd7e9ddc-cab4-4409-ba75-21ea73fa203d.jpg",
+      "PackagePath": "staticwebassets\\Site\\menu\\fd7e9ddc-cab4-4409-ba75-21ea73fa203d.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\cafeSite2\\cafeSite2\\wwwroot\\Site\\menu\\fe5a5cb9-0522-4fdd-9e6e-2990de8e3412.jpg",
+      "PackagePath": "staticwebassets\\Site\\menu\\fe5a5cb9-0522-4fdd-9e6e-2990de8e3412.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\cafeSite2\\cafeSite2\\wwwroot\\Site\\menu\\ffb98f20-83c7-4d38-ba43-b34f444243ea.jpg",
+      "PackagePath": "staticwebassets\\Site\\menu\\ffb98f20-83c7-4d38-ba43-b34f444243ea.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\cafeSite2\\cafeSite2\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\cafeSite2\\cafeSite2\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\cafeSite2\\cafeSite2\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\cafeSite2\\cafeSite2\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\cafeSite2\\cafeSite2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\cafeSite2\\cafeSite2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\cafeSite2\\cafeSite2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\cafeSite2\\cafeSite2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\cafeSite2\\cafeSite2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\cafeSite2\\cafeSite2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\cafeSite2\\cafeSite2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\cafeSite2\\cafeSite2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\cafeSite2\\cafeSite2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\cafeSite2\\cafeSite2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\cafeSite2\\cafeSite2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\cafeSite2\\cafeSite2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\cafeSite2\\cafeSite2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\cafeSite2\\cafeSite2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\cafeSite2\\cafeSite2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\cafeSite2\\cafeSite2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\cafeSite2\\cafeSite2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\cafeSite2\\cafeSite2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\cafeSite2\\cafeSite2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\cafeSite2\\cafeSite2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\cafeSite2\\cafeSite2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\cafeSite2\\cafeSite2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\cafeSite2\\cafeSite2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\cafeSite2\\cafeSite2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\cafeSite2\\cafeSite2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\cafeSite2\\cafeSite2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\cafeSite2\\cafeSite2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\cafeSite2\\cafeSite2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\cafeSite2\\cafeSite2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\cafeSite2\\cafeSite2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\cafeSite2\\cafeSite2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\cafeSite2\\cafeSite2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\cafeSite2\\cafeSite2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\cafeSite2\\cafeSite2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\cafeSite2\\cafeSite2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\cafeSite2\\cafeSite2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\cafeSite2\\cafeSite2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\cafeSite2\\cafeSite2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\cafeSite2\\cafeSite2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\cafeSite2\\cafeSite2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\cafeSite2\\cafeSite2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\cafeSite2\\cafeSite2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\cafeSite2\\cafeSite2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\cafeSite2\\cafeSite2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\cafeSite2\\cafeSite2\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\cafeSite2\\cafeSite2\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\cafeSite2\\cafeSite2\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\cafeSite2\\cafeSite2\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\cafeSite2\\cafeSite2\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\cafeSite2\\cafeSite2\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\cafeSite2\\cafeSite2\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\cafeSite2\\cafeSite2\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\cafeSite2\\cafeSite2\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\cafeSite2\\cafeSite2\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\cafeSite2\\cafeSite2\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\cafeSite2\\cafeSite2\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\cafeSite2\\cafeSite2\\wwwroot\\lib\\jquery\\dist\\jquery.slim.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\cafeSite2\\cafeSite2\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\cafeSite2\\cafeSite2\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.min.map"
+    },
+    {
+      "Id": "obj\\Release\\net9.0\\staticwebassets\\msbuild.build.cafeSite2.props",
+      "PackagePath": "build\\cafeSite2.props"
+    },
+    {
+      "Id": "obj\\Release\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.cafeSite2.props",
+      "PackagePath": "buildMultiTargeting\\cafeSite2.props"
+    },
+    {
+      "Id": "obj\\Release\\net9.0\\staticwebassets\\msbuild.buildTransitive.cafeSite2.props",
+      "PackagePath": "buildTransitive\\cafeSite2.props"
+    },
+    {
+      "Id": "obj\\Release\\net9.0\\staticwebassets\\msbuild.cafeSite2.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Release\\net9.0\\staticwebassets\\msbuild.cafeSite2.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

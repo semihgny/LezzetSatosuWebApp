@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\cafeSite2.props" />
+</Project>
